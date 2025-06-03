@@ -1,0 +1,441 @@
+[
+{
+      "name": "Ripple glass",
+      "image": "product-images/Ripple glass.jpg",
+      "retail": "₹100",
+      "wholesale": "₹50",
+      "description": "<table class='product-table'>\n    <tr>\n        <th>Sizes</th>\n        <th>Retial</th>\n        <th>Wholesale</th>\n    </tr>\n    <tr>\n        <td>100ml</td>\n        <td>₹100 [25pcs/pack]</td>\n        <td>₹600 [100packs/box]</td>\n    </tr>\n    <tr>\n        <td>150ml</td>\n        <td>₹150 [25pcs/pack]</td>\n        <td>₹700 [100packs/box]</td>\n    </tr>\n</table>\n<div class='location'>Location: Yatna ka ghar</div>"
+    },
+     {
+        "name": "Paper glass",
+        "image": "product-images/Paper glass.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Sugarecane plate",
+        "image": "product-images/sugarecane plate.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Sugarecane 3 Khacha",
+        "image": "product-images/sugarecane 3khacha.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Sugarecane 2 Khacha",
+        "image": "product-images/sugarcane 2khacha.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Sugarecane Square 2 Khacha",
+        "image": "product-images/sugarcane square 2khacha.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Makka Square",
+        "image": "product-images/makka square.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Makka Circle",
+        "image": "product-images/makka circle.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "LightGreen Plane Leaves Plate",
+        "image": "product-images/lightgreen plane leaves plate.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "14 Inch Pane Green Plate",
+        "image": "product-images/14inch plane green plate.webp",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "14 Inch lightGreen Plate ",
+        "image": "product-images/14inch light green plate.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "14 Inch Dark Green Plate",
+        "image": "product-images/14inch dark green plate.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "DarkGreen Plane Leaves Plate",
+        "image": "product-images/Darkgreen plane leaves plate.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "13 Inch Plane Silver Plate",
+        "image": "product-images/13inch plane silver plate.webp",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Towel Chindi",
+        "image": "product-images/Towel Chindi.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "T-shirt CHindi",
+        "image": "product-images/T shirt Chindi.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Sugarcane small Plate",
+        "image": "product-images/Sugarcane small plate.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Stirrers",
+        "image": "product-images/Stirrers.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Small Wooden Spoon",
+        "image": "product-images/small wooden spoon.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Small Wooden Fork",
+        "image": "product-images/small wooden fork.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Small Plastic Spoon",
+        "image": "product-images/small plastic spoon.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Plastic Fork",
+        "image": "product-images/plastic fork.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Makka Bowl",
+        "image": "product-images/Makka bowl.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Large Wooden Spoon",
+        "image": "product-images/large wooden spoon.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Large Wooden Fork",
+        "image": "product-images/large Wodden Fork.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Large Plastic Spoon",
+        "image": "product-images/large plastic spoon.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Ice Cream Spoon",
+        "image": "product-images/ice-cream spoon.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Ice Cream Cups",
+        "image": "product-images/ice-cream cups.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "Towel Chindi",
+        "image": "product-images/Towel Chindi.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "4 Inch Wooden Toothpick",
+        "image": "product-images/4 inch wooden toothpick.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "3 Inch Wooden Toothpick",
+        "image": "product-images/3 inch wooden toothpick.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "0 Number Silver Plate",
+        "image": "product-images/0 number silver plate(2).jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "0 Number Silver Plate",
+        "image": "product-images/0 number silver plate(1).jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+        "name": "0 Number Silver Plate",
+        "image": "product-images/0 number silver plate.jpg",
+        "retail": "₹120",
+        "wholesale": "₹90",
+        "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+      },
+      {
+    "name": "Table Roll",
+    "image": "product-images/table roll.jpg",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Green Garbage Bag",
+    "image": "product-images/green garbage bag.jpg",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Silver Pouch(3sizes)",
+    "image": "product-images/silver pouch (3 sizes).jpg",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Double Side Tap (2 Sizes)",
+    "image": "product-images/double side tap (2 sizes).jpg",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Ballon Pump",
+    "image": "product-images/ballon pump.jpg",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Balloon Pump 1",
+    "image": "product-images/ballon pump 1.jpg",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Balloon Electric Machine",
+    "image": "product-images/balloon electric machine.jpg",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Cling",
+    "image": "product-images/cling.avif",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Cling Image",
+    "image": "product-images/cling image.webp",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Tissue Paper",
+    "image": "product-images/tissue paper.webp",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Toilet Roll",
+    "image": "product-images/toilet roll.jpg",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Snow Spray",
+    "image": "product-images/snow spray.webp",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Gift Paper",
+    "image": "product-images/gift paper.jpg",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Paper Latkan(Paper Strimmer Multicolour)",
+    "image": "product-images/paper latkan(paper strimmer multicolour).webp",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Plane Birthday Banner",
+    "image": "product-images/plane birthday banner.webp",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Golden Black Birthday Banner",
+    "image": "product-images/golden black birthday banner.webp",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "King Crown",
+    "image": "product-images/king crown.jpg",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Queen Crown",
+    "image": "product-images/queen crown.webp",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Decoration Ribbon",
+    "image": "product-images/decoration ribbon.jpg",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Orange Pataka",
+    "image": "product-images/orange pataka.jpg",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Chamki Pataka Colourful",
+    "image": "product-images/chamki pataka colourful.jpg",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Colourful Pataka",
+    "image": "product-images/colourful pataka.jpg",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Blank Menu Card Food Counter",
+    "image": "product-images/blank menu card food counter.webp",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Butter Paper",
+    "image": "product-images/butter paper.jpg",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Eco Panni Bags Wide Range Same Price",
+    "image": "product-images/eco panni bags wide range same price.jpg",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Eco Panni",
+    "image": "product-images/eco panni.webp",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Eco Panni Milk Bags",
+    "image": "product-images/eco panni milk bags.webp",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  },
+  {
+    "name": "Chemical",
+    "image": "product-images/chemical.jpg",
+    "retail": "₹120",
+    "wholesale": "₹90",
+    "description": "Retail: 50pcs/pack | Wholesale: 500pcs/box."
+  }
+    
+
+     
+
+]
+  
