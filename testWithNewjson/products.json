@@ -1,0 +1,666 @@
+[
+    {
+      "name": "Ripple glass",
+      "image": "product-images/Ripple glass.jpg",
+      "retail": "₹100",
+      "wholesale": "₹50",
+      "description": {
+        "table_headers": [
+          "Sizes",
+          "Retial",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Sizes": "150ml",
+            "Retial": "₹50 [25pcs/pack]",
+            "Wholesale": "₹45 [10 pack min]"
+          },
+          {
+            "Sizes": "250ml",
+            "Retial": "₹70 [25pcs/pack]",
+            "Wholesale": "₹60 [10 pack min]"
+          }
+        ],
+        "location": "Rack No.:4 me 3rd khacha [150ml]"
+      }
+    },
+    {
+      "name": "Paper glass",
+      "image": "product-images/Paper glass.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Sizes",
+          "Retial",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Sizes": "35ml",
+            "Retial": "₹11 [48pcs/pack]",
+            "Wholesale": "₹850-950 per box"
+          },
+          {
+            "Sizes": "45ml",
+            "Retial": "₹11 [48pcs/pack]",
+            "Wholesale": "₹850-950 per box"
+          },
+          {
+            "Sizes": "55ml",
+            "Retial": "₹11-12 [50pcs/pack]",
+            "Wholesale": "₹1000 per box"
+          },
+          {
+            "Sizes": "65ml",
+            "Retial": "₹14-15 [50pcs/pack]",
+            "Wholesale": "₹1250-1400 per box"
+          },
+          {
+            "Sizes": "70ml",
+            "Retial": "₹17 [50pcs/pack]",
+            "Wholesale": "₹1400 per box"
+          },
+          {
+            "Sizes": "80ml",
+            "Retial": "₹18-20 [50pcs/pack]",
+            "Wholesale": "₹1600-1800 per box"
+          },
+          {
+            "Sizes": "100ml",
+            "Retial": "₹30 [50pcs/pack]",
+            "Wholesale": "24 per pack|₹2200 per box"
+          },
+          {
+            "Sizes": "150ml",
+            "Retial": "₹35 [50pcs/pack]",
+            "Wholesale": "30 per pack|₹2500 per box"
+          },
+          {
+            "Sizes": "150ml printed",
+            "Retial": "₹40 [50pcs/pack]",
+            "Wholesale": "₹38 per pack"
+          },
+          {
+            "Sizes": "210ml",
+            "Retial": "₹45 [50pcs/pack]",
+            "Wholesale": "₹35-30 per pack"
+          },
+          {
+            "Sizes": "250ml",
+            "Retial": "₹50 [50pcs/pack]",
+            "Wholesale": "₹35-40 per pack"
+          }
+        ],
+        "location": "Behind Rack No-3 [35ml , 45ml , 55ml , 65ml , 70ml , 80ml]"
+      }
+    },
+    {
+      "name": "Ganna plate",
+      "image": "product-images/sugarecane plate.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Sizes",
+          "Retial",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Sizes": "10 inch",
+            "Retial": "₹110 [25 pcs/pack]",
+            "Wholesale": "₹110 [25 pcs/pack]"
+          },
+          {
+            "Sizes": "11 inch",
+            "Retial": "₹120 [25 pcs/pack]",
+            "Wholesale": "₹210 [25 pcs/pack]"
+          },
+          {
+            "Sizes": "12 inch",
+            "Retial": "₹180 [25 pcs/pack]",
+            "Wholesale": "₹180 [25 pcs/pack]"
+          }
+        ],
+        "location": "Rack 1 and and 2 ke Upar (above)"
+      }
+    },
+    {
+      "name": "Ganna 3 Khacha",
+      "image": "product-images/sugarecane 3khacha.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Sizes",
+          "Retial",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Sizes": "10 inch 2 khacha",
+            "Retial": "₹110 [25 pcs/pack]",
+            "Wholesale": "₹110 [25 pcs/pack]"
+          },
+          {
+            "Sizes": "11 inch",
+            "Retial": "₹120 [25 pcs/pack]",
+            "Wholesale": "₹210 [25 pcs/pack]"
+          },
+          {
+            "Sizes": "12 inch",
+            "Retial": "₹180 [25 pcs/pack]",
+            "Wholesale": "₹180 [25 pcs/pack]"
+          }
+        ],
+        "location": "Rack 1 and and 2 ke Upar (above)"
+      }
+    },
+    {
+      "name": "Ganna Square 2 Khacha",
+      "image": "product-images/sugarcane square 2khacha.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Retail",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Retail": "₹250 [50pcs.pack]",
+            "Wholesale": "₹250 [50pcs.pack]"
+          }
+        ],
+        "location": "Rack No-4 2nd khacha"
+      }
+    },
+    {
+      "name": "Makka Square",
+      "image": "product-images/makka square.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Retail",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Retail": "₹230-250 [25pcs/pack]",
+            "Wholesale": "₹230-250 [25pcs/pack]"
+          }
+        ],
+        "location": "Rack No-3 1st khacha"
+      }
+    },
+    {
+      "name": "Makka Circle",
+      "image": "product-images/makka circle.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Retail",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Retail": "₹230-250 [25pcs/pack]",
+            "Wholesale": "₹230-250 [25pcs/pack]"
+          }
+        ],
+        "location": "Rack No-1 and 2 above"
+      }
+    },
+    {
+      "name": "LightGreen Plane Leaves Plate",
+      "image": "product-images/lightgreen plane leaves plate.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Retail",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Retail": "₹80 [22-24pcs/pack]",
+            "Wholesale": "₹80 [22-24pcs/pack]"
+          }
+        ],
+        "location": "Rack No-2 1st khacha"
+      }
+    },
+    {
+      "name": "14 Inch Plane Green Plate",
+      "image": "product-images/14inch plane green plate.webp",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Retail",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Retail": "₹70 [20-22pcs/pack]",
+            "Wholesale": "₹65 [20-22pcs/pack]"
+          }
+        ],
+        "location": "Koi bhi ek Goni"
+      }
+    },
+    {
+      "name": "14 Inch lightGreen Khacha Plate ",
+      "image": "product-images/14inch light green plate.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Retail",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Retail": "₹60 [22-24pcs/pack]",
+            "Wholesale": "₹55 [22-24pcs/pack]"
+          }
+        ],
+        "location": "Koi bhi ek Goni"
+      }
+    },
+    {
+      "name": "14 Inch Dark Green khacha Plate",
+      "image": "product-images/14inch dark green plate.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Retail",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Retail": "₹70 [22-24pcs/pack]",
+            "Wholesale": "₹65 [22-24pcs/pack]"
+          }
+        ],
+        "location": "koi bhi ek goni"
+      }
+    },
+    {
+      "name": "DarkGreen Plane Leaves Plate",
+      "image": "product-images/Darkgreen plane leaves plate.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Retail",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Retail": "₹100-90 [14pcs/pack]",
+            "Wholesale": "₹100-90 [14pcs/pack]"
+          }
+        ],
+        "location": "Rack No-2 1st khacha and Goni"
+      }
+    },
+    {
+      "name": "13 Inch Plane Silver Plate",
+      "image": "product-images/13inch plane silver plate.webp",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Retail",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Retail": "₹45 [20-22pcs/pack]",
+            "Wholesale": "₹40 [20-22pcs/pack]"
+          }
+        ],
+        "location": "Rack No-3 ke saamne neehce goni me"
+      }
+    },
+    {
+      "name": "T-shirt Chindi",
+      "image": "product-images/T shirt Chindi.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Retail",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Retail": "₹80 pr KG",
+            "Wholesale": "₹80 per KG"
+          }
+        ],
+        "location": "One of the Goni"
+      }
+    },
+    {
+      "name": "Ganna Nashta Plate",
+      "image": "product-images/Sugarcane small plate.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Retail",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Retail": "₹100 [50pcs/pack]",
+            "Wholesale": "₹100 [50pcs/pack]"
+          }
+        ],
+        "location": "Rack No-4 2nd khacha"
+      }
+    },
+    {
+      "name": "Stirrers",
+      "image": "product-images/Stirrers.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Retail",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Retail": "₹70 per pack",
+            "Wholesale": "₹70 per pack"
+          }
+        ],
+        "location": "Rack No-4 1st khacha"
+      }
+    },
+    {
+      "name": "Wooden Spoon",
+      "image": "product-images/large wooden spoon.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Sizes",
+          "Retial",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Sizes": "Small",
+            "Retial": "₹70 [100 pcs/pack]",
+            "Wholesale": "₹60 [100 pcs/pack]"
+          },
+          {
+            "Sizes": "large",
+            "Retial": "₹90 [100 pcs/pack]",
+            "Wholesale": "₹80 [100 pcs/pack]"
+          }
+        ],
+        "location": "Rack No-4 1st khacha"
+      }
+    },
+    {
+      "name": "Wooden Fork",
+      "image": "product-images/large Wodden Fork.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Sizes",
+          "Retial",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Sizes": "Small",
+            "Retial": "₹70 [100 pcs/pack]",
+            "Wholesale": "₹60 [100 pcs/pack]"
+          },
+          {
+            "Sizes": "large",
+            "Retial": "₹90 [100 pcs/pack]",
+            "Wholesale": "₹80 [100 pcs/pack]"
+          }
+        ],
+        "location": "Rack No-4 1st khacha"
+      }
+    },
+    {
+      "name": "Plastic Spoon",
+      "image": "product-images/large plastic spoon.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Sizes",
+          "Retial",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Sizes": "Small",
+            "Retial": "₹40 [100 pcs/pack]",
+            "Wholesale": "₹30 [100 pcs/pack]"
+          },
+          {
+            "Sizes": "large",
+            "Retial": "₹50 [100 pcs/pack]",
+            "Wholesale": "₹50 [100 pcs/pack]"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Plastic Fork",
+      "image": "product-images/plastic fork.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Sizes",
+          "Retial",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Sizes": "Small",
+            "Retial": "₹60 [100 pcs/pack]",
+            "Wholesale": "₹60 [100 pcs/pack]"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Makka Bowl",
+      "image": "product-images/Makka dona.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Sizes",
+          "Retial",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Sizes": "Small",
+            "Retial": "₹110 [50 pcs/pack]",
+            "Wholesale": "₹100 [50 pcs/pack]"
+          }
+        ],
+        "location": "Rack No-1 and 4 (both 1st khacha)"
+      }
+    },
+    {
+      "name": "Ice Cream Spoon",
+      "image": "product-images/ice-cream spoon.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Sizes",
+          "Retial",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Sizes": "Polished",
+            "Retial": "₹30 [100 pcs/pack]",
+            "Wholesale": "25 [100 pcs/pack]"
+          },
+          {
+            "Sizes": "Unpolished",
+            "Retial": "₹90 [600 pcs/pack]",
+            "Wholesale": "₹90 [600 pcs/pack]"
+          }
+        ],
+        "location": "unPolished: Rack No-1 2nd Khacha"
+      }
+    },
+    {
+      "name": "Ice Cream Cups",
+      "image": "product-images/ice-cream cups.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Retail",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Retail": "₹35 [50pcs/pack]",
+            "Wholesale": "₹32 [50pcs/pack]"
+          }
+        ],
+        "location": "Rack 4 3rd khacha"
+      }
+    },
+    {
+      "name": "Towel Chindi",
+      "image": "product-images/Towel Chindi.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Retail",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Retail": "₹110 pr KG",
+            "Wholesale": "₹110 per KG"
+          }
+        ],
+        "location": "One of the Goni"
+      }
+    },
+    {
+      "name": "Packet Wooden Toothpick",
+      "image": "product-images/4 inch wooden toothpick.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Retail",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Retail": "₹15 per pack",
+            "Wholesale": "₹15 per pack"
+          }
+        ],
+        "location": "Rack 4 1st khacha"
+      }
+    },
+    {
+      "name": "Dabbi Wooden Toothpick",
+      "image": "product-images/3 inch wooden toothpick.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Retail",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Retail": "₹12 per dabbi",
+            "Wholesale": "₹10 per dabbi"
+          }
+        ],
+        "location": "Counter + Rack No-3 2nd khacha"
+      }
+    },
+    {
+      "name": "0 Number Silver Plate (110)",
+      "image": "product-images/0 number silver plate(2).jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Retail",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Retail": "₹110 per pack[30pcs/pack]",
+            "Wholesale": "₹100 per pack [30pcs/pack]"
+          }
+        ],
+        "location": "Rack No-2 1st khacha left side"
+      }
+    },
+    {
+      "name": "0 Number Silver Plate (80)",
+      "image": "product-images/0 number silver plate(1).jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Retail",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Retail": "₹80 per pack[30pcs/pack]",
+            "Wholesale": "₹75-70 per pack [30pcs/pack]"
+          }
+        ],
+        "location": "Rack No-2 1st khacha right side"
+      }
+    },
+    {
+      "name": "0 Number Silver Plate (60)",
+      "image": "product-images/0 number silver plate.jpg",
+      "retail": "₹120",
+      "wholesale": "₹90",
+      "description": {
+        "table_headers": [
+          "Retail",
+          "Wholesale"
+        ],
+        "table_data": [
+          {
+            "Retail": "₹60 per pack[30pcs/pack]",
+            "Wholesale": "₹60-50 per pack [30pcs/pack]"
+          }
+        ],
+        "location": "Rack No-2 1st khacha"
+      }
+    }
+]
